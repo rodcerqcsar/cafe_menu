@@ -1,4 +1,4 @@
-<h1 align="center"> Camper Cafe </h1>
+<h1> Camper Cafe </h1>
 
 <br>
 
