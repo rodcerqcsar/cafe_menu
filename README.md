@@ -21,4 +21,4 @@ Learn basic CSS by building a Cafe Menu.
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/cat_photo_app)
+- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/cafe_menu)
