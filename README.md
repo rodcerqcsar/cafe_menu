@@ -4,21 +4,22 @@
 
 
 <p align="center">
-  <img alt="Preview App" src=".github/" width="100%">
+  <img alt="Preview App" src="cafe_menu.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with:
 
-- HTML e CSS
+- CSS 
 
-## 💻 Projeto
+## 💻 Project
 
-Learn basic CSS by building a Cafe Menu.
+Menu page CSS design for a cafe webpage.
 
 ---
 
 No Copyright :wave: by https://www.freecodecamp.org
 
 - [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/cafe_menu)
+
