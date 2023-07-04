@@ -11,7 +11,8 @@
 
 This project was developed with:
 
-- CSS 
+- HTML
+- CSS
 
 ## 💻 Project
 
@@ -21,5 +22,5 @@ Menu page CSS design for a cafe webpage.
 
 No Copyright :wave: by https://www.freecodecamp.org
 
-- [Acesse o projeto finalizado, online](https://rodrigocccesar.github.io/cafe_menu)
+- [Access the finished project, online](https://rodrigocccesar.github.io/cafe_menu)
 
